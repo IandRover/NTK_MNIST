@@ -1,6 +1,6 @@
 # Compare Neural Tagent Kernel (NTK) and Neural Network on MNIST
 
-## Trying Out Experiments on [This Colab Notebook](./[shared]_NTK_MNIST.ipynb).
+## Trying Out Experiments on [This Colab Notebook](./NTK_MNIST.ipynb).
 - Packages: jax, neural_tangents.
 - Evaluation: The testing accuracy is evaluated on ```1K``` fixed testing MNIST images.
 
